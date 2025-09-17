@@ -69,3 +69,4 @@ Featuring the ultimate **Skin Changer**, **Aimbot, ESP, Wallhack, No Recoil** an
 | **Is it safe?**             | Yes, undetected as of September 2025.       |
 | **Stream-proof?**           | Yes, invisible on OBS & Discord captures.   |
 | **How to update?**          | Updates automatically after CS2 patches.    |
+ 
