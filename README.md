@@ -70,3 +70,4 @@ Featuring the ultimate **Skin Changer**, **Aimbot, ESP, Wallhack, No Recoil** an
 | **Stream-proof?**           | Yes, invisible on OBS & Discord captures.   |
 | **How to update?**          | Updates automatically after CS2 patches.    |
  
+ 
